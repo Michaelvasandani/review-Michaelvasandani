@@ -5,6 +5,8 @@ rm -rf grading-area
 
 mkdir grading-area
 
+#hi my name is chris
+
 git clone $1 student-submission
 echo 'Finished cloning'
 
