@@ -1,5 +1,5 @@
 CPATH='.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar'
-
+# my name is chris
 rm -rf student-submission
 rm -rf grading-area
 
